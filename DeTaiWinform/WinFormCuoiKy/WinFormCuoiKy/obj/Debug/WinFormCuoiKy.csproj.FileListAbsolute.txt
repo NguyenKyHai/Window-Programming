@@ -1,0 +1,99 @@
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.exe.config
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.exe
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.pdb
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csprojAssemblyReference.cache
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.Properties.Resources.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.GenerateResource.cache
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.exe
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.pdb
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ManHinhChinh.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinNhanVien.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinKhachHang.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinSanPham.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinHoaDon.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ChiTietHoaDon.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongKeSoLuongXe.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongKeDoanhThuBanXe.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DoanhSoTheoHoaDon.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DoanhSoTheoNhanVien.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DoanhSoBanXe.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DangNhap.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.KiemTraLuongXe.resources
+C:\Users\MSIs\OneDrive\Máy tính\FILE lập trình\HK2-2021\Lập trình trên Windows\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.TaiKhoan.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.exe.config
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.exe
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.pdb
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csprojAssemblyReference.cache
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DangNhap.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DoanhSoBanXe.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DoanhSoTheoHoaDon.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DoanhSoTheoNhanVien.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.KiemTraLuongXe.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ManHinhChinh.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.Properties.Resources.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.TaiKhoan.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinHoaDon.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinKhachHang.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinNhanVien.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinSanPham.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.GenerateResource.cache
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.CoreCompileInputs.cache
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.exe
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.pdb
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.dll
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.xml
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.CopyComplete
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongKeLuong.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongKeDoanhSo.resources
+E:\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.CTHD.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.exe.config
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.exe
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.pdb
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.dll
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.xml
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csprojAssemblyReference.cache
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.CTHD.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DangNhap.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ManHinhChinh.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.Properties.Resources.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.Taikhoan.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongKeDoanhSo.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongKeLuong.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinHoaDon.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinKhachHang.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinNhanVien.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinSanPham.resources
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.GenerateResource.cache
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.CopyComplete
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.exe
+C:\Users\MSIs\OneDrive\Máy tính\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.pdb
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.exe.config
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.exe
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\WinFormCuoiKy.pdb
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.dll
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.SqlServer.dll
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.xml
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\bin\Debug\EntityFramework.SqlServer.xml
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csprojAssemblyReference.cache
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.CTHD.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.DangNhap.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ManHinhChinh.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.Properties.Resources.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.Taikhoan.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongKeDoanhSo.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongKeLuong.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinHoaDon.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinKhachHang.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinNhanVien.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.ThongTinSanPham.resources
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.GenerateResource.cache
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.CoreCompileInputs.cache
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.csproj.CopyComplete
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.exe
+E:\DeTaiWinform\DeTaiWinform\WinFormCuoiKy\WinFormCuoiKy\obj\Debug\WinFormCuoiKy.pdb
